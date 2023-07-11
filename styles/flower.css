@@ -1,0 +1,40 @@
+/* header related styles */
+.header{
+    background-color: #E55473;
+    background: rgba(229, 84, 115, 0.10);
+}
+.banner{
+    padding: 50px 250px 0px 100px ;
+    display: flex;
+    align-items: center;
+}
+.banner-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.banner-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.btn-primary{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px 20px 43px;
+}
+.banner .profile-pic{
+    width: 635px;
+}
