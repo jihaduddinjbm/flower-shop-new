@@ -79,3 +79,40 @@
 .section .profile-pic{
     width: 318px;
 }
+.Instagram{
+     background: #FFF;
+     width: 1920px;
+     height: 4867px;
+}
+.Instagram-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.Instagram-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    
+}
+.Instagram .profile-pic1{
+    padding: 50px 20px 0px 140px ;
+}
+.Instagram .profile-pic2{
+    padding:50px 20px 0px 0px ;
+
+}
+.Instagram .profile-pic3{
+    padding: 50px 20px 0px 0px;
+}
+.Instagram .profile-pic4{
+    padding: 50px 140px 0px 0px;
+}
