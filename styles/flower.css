@@ -45,11 +45,11 @@
     background-color:#E55473;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
-    width: 1922px;
-    height: 620px;
+   
+   
 }
 .section{
-    padding: 100px 400px 100px 100px;
+    padding: 100px 0px 100px 100px;
     display: flex;
     align-items: center;
 }
@@ -66,9 +66,8 @@
     text-align: center;
     font-family: Lato;
     font-size: 18px;
-    font-style: normal;
     font-weight: 400;
-    line-height: 30px;
+    
 }
 .btn-primary{
     display: inline-flex;
@@ -84,7 +83,7 @@
 .Instagram{
      background: #FFF;
      width: 1920px;
-     height: 4867px;
+   
 }
 .Instagram-title{
     color: #272727;
@@ -93,7 +92,7 @@
     font-size: 40px;
     font-style: normal;
     font-weight: 800;
-    line-height: normal;
+    
 }
 .Instagram-description{
     color: rgba(39, 39, 39, 0.60);
@@ -102,7 +101,7 @@
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    line-height: 30px;
+   
     
 }
 .Instagram .profile-pic1{
@@ -118,5 +117,45 @@
 .Instagram .profile-pic4{
     padding: 50px 140px 0px 0px;
 
+}
+.deal-banner{
+    background-image:url(); 
+  
+    
+}
+.deal-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    
+    
+  
+}
+.deal-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+.deal-form{
+    display: flex;
+    align-items:center ;
+    
+}
+.deal-R{
+    border-radius: 8px;
+    background:  #FFF;
+    justify-content:space-around;
+}
+.btn-deal{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+     background: #E55473;
 }
 
