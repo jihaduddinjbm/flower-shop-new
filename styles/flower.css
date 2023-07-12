@@ -41,7 +41,7 @@
     width: 635px;
 }
 /* main related styles */
-.main{
+.main-section{
     background-color:#E55473;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
@@ -119,8 +119,9 @@
 
 }
 .deal-banner{
-    background-image:url(); 
-  
+    background-image:url("../Flower Asset/Rectangle 9.png/.."); 
+    width: 1440px;
+    height: 449px;   
     
 }
 .deal-title{
@@ -161,7 +162,6 @@
 /* footer related styles */
 .footer{
     background: #111010;
-    width: 1922px;
     padding: 30px;
 }
 .footer-title{
