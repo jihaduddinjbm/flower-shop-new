@@ -118,3 +118,45 @@
 .Instagram .profile-pic4{
     padding: 50px 140px 0px 0px;
 }
+.deal{
+   background: url("/Flower Asset/Rectangle 9.png");
+   border-radius: 8px;
+   padding: 0px 250px 120000px 250px;
+   background-repeat:no-repeat ;
+   width: 1440px;
+}
+.deal-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+   font-style: normal;
+   font-weight: 800;
+   line-height: normal;
+   padding: 50px 10px 20px;
+}
+.deal-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.deal-form{
+    display: flex;
+    border-radius: 8px;
+    background: #FFF;
+    width: 700px;
+}
+.btn-primary{
+  
+    
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
